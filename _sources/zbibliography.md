@@ -2,16 +2,15 @@
 
 ## Citing
 
-When using one of the models implemented in this repo in academic work please cite the corresponding paper.
-In case you want to cite the NPF website or this specific implementation of the NPs then you can use:
+When using this repo in academic work please cite the website using:
 
 ```
-@misc{dubois2020npf,
-  title        = {Neural Process Family},
-  author       = {Dubois, Yann and Gordon, Jonathan and Foong, Andrew YK},
-  month        = {September},
-  year         = {2020},
-  howpublished = {\url{http://yanndubs.github.io/Neural-Process-Family/}}
+@misc{jain2024ot,
+  title        = {Optimal Transport},
+  author       = {Jain, Gagan},
+  month        = {May},
+  year         = {2024},
+  howpublished = {\url{http://gag-j.github.io/Optimal-Transport/}}
 }
 ```
 
