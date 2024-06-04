@@ -1,3 +1,3 @@
-# Optimal Transport 
+# Reinforcement Learning
 
-Main entry point: [**Optimal Transport** website](https://gag-j.github.io/Optimal-Transport/text/Intro.html).
+Main entry point: [**Reinforcement Learning** website](https://gag-j.github.io/RL/text/Intro.html).
